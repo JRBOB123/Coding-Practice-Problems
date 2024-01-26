@@ -1,4 +1,4 @@
-# Leetcode daily
+# Leetcode daily challenge - December 2023
 class Solution(object):
     def findSpecialInteger(self, arr):
         """
